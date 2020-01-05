@@ -1,3 +1,5 @@
+![Cryptower](https://github.com/fima2016/Cryptower/blob/master/1500x500.jpeg)
+
 # Cryptower
 
 А game that allows you to simulate price fluctuations, traders’ behavior and formation of price patterns. An infinite number of players can participate in the Cryptower game and anyone can enter or exit the game at any time.</br>
