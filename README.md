@@ -2,7 +2,7 @@
 
 # Cryptower
 
-А game that allows you to simulate price fluctuations, traders’ behavior and formation of price patterns. An infinite number of players can participate in the Cryptower game and anyone can enter or exit the game at any time.</br>
+А game that allows you to simulate price fluctuations, traders’ behavior and formation of price patterns. An infinite number of players can participate in the Cryptower game and anyone can enter or exit the game at any time.
 
 ### Description
 
@@ -33,15 +33,15 @@ If a player leaves the game, all his levels are sold and he receives tokens in a
 
 ```Ma = s + s * (s + 1) / 2``` (1),
 
-where Ma is the number of tokens that the player must deposit, s is the number of levels that a player wants to build, h is the height of the tower, new tower height h = h1 + s
+where **Ma** is the number of tokens that the player must deposit, **s** is the number of levels that a player wants to build, **h** is the height of the tower, new tower height: h = h<sub>1</sub> + s
 
 ```Mp = s * h - s * (s - 1) / 2``` (2),
 
-where Mp is the amount of money that a player receives from the bank, new tower height: ```h = h1 - s```
+where **Mp** is the amount of money that a player receives from the bank, new tower height: h = h<sub>1</sub> - s
 
 ```C = h * (h + 1) / 2``` (3),
 
-where C is the amount of money in the bank, depending on the height of the tower.
+where **C** is the amount of money in the bank, depending on the height of the tower.
 
 ### Annex III: Interface
 
@@ -56,7 +56,7 @@ History of price changes of the tower.
 
 ### Beta
 
-Beta has been released: https://cryptowergame.com
+**Beta has been released:** https://cryptowergame.com
 
 If you are interested in the game, you can join the group:</br>
 Telegram: https://t.me/cryptowergame</br>
